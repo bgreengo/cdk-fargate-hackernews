@@ -1,0 +1,7 @@
+README.md
+setup.py
+aws_sac_meetup/aws_sac_meetup.egg-info/PKG-INFO
+aws_sac_meetup/aws_sac_meetup.egg-info/SOURCES.txt
+aws_sac_meetup/aws_sac_meetup.egg-info/dependency_links.txt
+aws_sac_meetup/aws_sac_meetup.egg-info/requires.txt
+aws_sac_meetup/aws_sac_meetup.egg-info/top_level.txt

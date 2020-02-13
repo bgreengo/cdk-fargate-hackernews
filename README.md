@@ -1,7 +1,10 @@
 
-# Welcome to your CDK Python project!
+# Build and Deploy a Serverless app with AWS CDK and Python
 
-This is a blank project for Python development with CDK.
+![CDK](img/serverless-app.png)
+
+## Blog Post
+https://greengocloud.com/2019/12/30/Build-and-Deploy-a-Serverless-app-with-AWS-CDK-and-Python/
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 

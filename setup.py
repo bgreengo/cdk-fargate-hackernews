@@ -19,7 +19,13 @@ setuptools.setup(
     packages=setuptools.find_packages(where="aws_sac_meetup"),
 
     install_requires=[
-        "aws-cdk.core==1.23.0",
+        "aws-cdk.core",
+        "aws-cdk.aws-ecs-patterns",
+        "aws-cdk.aws-ecr-assets",
+        "aws-cdk.aws-certificatemanager",
+        "aws-cdk.aws-route53",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-elasticloadbalancingv2",
     ],
 
     python_requires=">=3.6",
